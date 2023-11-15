@@ -1,0 +1,2 @@
+# EntriopiaD
+Actividad Entropía Diferencial
